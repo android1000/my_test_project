@@ -1,6 +1,2 @@
 msgbox("Hello World You1!")
-msgbox("Hello World You22!")
-msgbox("Hello World You33!")
-msgbox("Hello World You44!")
-msgbox("Hello World You55!")
 msgbox("Hello World You66!")
